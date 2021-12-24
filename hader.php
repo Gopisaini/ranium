@@ -1,9 +1,6 @@
 <!doctype html>
 <html lang="en">
-  
-<!-- Mirrored from demo.themeies.com/lamia/html/home.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 21 Dec 2021 10:30:32 GMT -->
-<head>
-    <!-- Required meta tags -->
+ 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
