@@ -1,17 +1,6 @@
 <?php
 include('hader.php');
-?>
-    <!-- Header Section end -->
-
-
-    <!-- Breadcrumb -->
-    <div class="breadcrumb">
-      <div class="container text-center">
-        <a href="home.html">Home</a>
-        <span>Shop page</span>
-      </div>
-    </div>
-
+?
     <section class="signinUp-sec">
       <div class="container">
         <div class="row">
@@ -40,24 +29,7 @@ include('hader.php');
       </div>
     </section>
 
-    <section class="instagram-sec sec-px-100">
-      <h2 class="sec-headline flex-1">Instagram</h2>
-      <div class="insta-photos d-flex">
-        <a href="#"><img src="images/instagram/1.jpg" alt=""></a>
-        <a href="#"><img src="images/instagram/2.jpg" alt=""></a>
-        <a href="#"><img src="images/instagram/3.jpg" alt=""></a>
-        <a href="#"><img src="images/instagram/4.jpg" alt=""></a>
-        <a href="#"><img src="images/instagram/5.jpg" alt=""></a>
-        <a href="#"><img src="images/instagram/6.jpg" alt=""></a>
-        <div class="insta-page">
-          <a href="#"><i class="fab fa-instagram"></i> Themeies.com</a>
-          <p>Proin at gravida ligula. Fusce maximus nibh nec.</p>
-        </div>
-      </div>
-    </section>
 
-
-    <!-- Footer start -->
     <?php
 include('footer.php');
 ?>
